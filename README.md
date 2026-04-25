@@ -35,10 +35,10 @@ Alat bantu identifikasi awal kerusakan laptop
 ## 🧠 Metode Backward Chaining
 Backward Chaining adalah metode penalaran yang dimulai dari tujuan atau kesimpulan, lalu sistem mencari fakta/gejala yang mendukung kesimpulan tersebut.
 Cara Kerja:
-1.Sistem memilih target kerusakan
-2.Sistem menanyakan gejala terkait
-3.Jika semua gejala terpenuhi, target dianggap benar
-4.Jika tidak sesuai, sistem berpindah 5.ke target lain
+-Sistem memilih target kerusakan
+-Sistem menanyakan gejala terkait
+-Jika semua gejala terpenuhi, target dianggap benar
+-Jika tidak sesuai, sistem berpindah 5.ke target lain
 Hasil akhir ditampilkan ke pengguna. 
 
 ## 📚 Knowledge Base
