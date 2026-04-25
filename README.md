@@ -33,7 +33,7 @@ Media pembelajaran Artificial Intelligence
 Implementasi Sistem Pakar
 Simulasi diagnosa perangkat komputer
 Alat bantu identifikasi awal kerusakan laptop
----
+
 ## 🧠 Metode Backward Chaining
 Backward Chaining adalah metode penalaran yang dimulai dari tujuan atau kesimpulan, lalu sistem mencari fakta/gejala yang mendukung kesimpulan tersebut.
 Cara Kerja:
@@ -42,7 +42,7 @@ Cara Kerja:
 3.Jika semua gejala terpenuhi, target dianggap benar
 4.Jika tidak sesuai, sistem berpindah 5.ke target lain
 Hasil akhir ditampilkan ke pengguna
----
+
 ## 📚 Knowledge Base
 🖥️ Data Kerusakan
 Kode
@@ -99,7 +99,7 @@ G11
 USB tidak terbaca
 G12
 Laptop cepat panas
----
+
 ## 🧾 Aturan IF - THEN
 IF G02 AND G03 THEN K01
 IF G01 THEN K02
@@ -113,20 +113,20 @@ IF G11 THEN K09
 IF G09 THEN K10
 IF G10 THEN K11
 IF G06 THEN K12
----
+
 ## ⚙️ Cara Penggunaan
 1.Jalankan program Python
 2.Sistem akan memberikan pertanyaan 3.gejala
 Jawab dengan:
 y = Ya
 n = Tidak
----
+
 ## 💻 Teknologi
 Python
 Terminal / CMD
 Artificial Intelligence
 Expert System
 Backward Chaining
----
+
 
 
