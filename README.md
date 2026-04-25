@@ -20,8 +20,7 @@ Sistem akan melakukan analisa berdasarkan gejala yang dialami pengguna, kemudian
 ## 🚀 Jalankan Online
 
 Program dapat dijalankan melalui Google Colab:
-
-https://colab.research.google.com/
+https://colab.research.google.com/drive/1MzzKppZe9tkZwn6858m6l_SRB82JO7dU?usp=sharing
 ---
 
 ## 📖 Deskripsi Sistem
@@ -70,7 +69,7 @@ K11
 Kerusakan Wifi
 K12
 Kerusakan Sistem Operasi
----
+
 ## 🔍 Data Gejala
 Kode
 Gejala
