@@ -14,7 +14,6 @@ Sistem akan melakukan analisa berdasarkan gejala yang dialami pengguna, kemudian
 - [📚 Knowledge Base](#-knowledge-base)
 - [⚙️ Cara Penggunaan](#️-cara-penggunaan)
 - [💻 Teknologi](#-teknologi)
-- [🎯 Tujuan Program](#-tujuan-program)
 
 ---
 
