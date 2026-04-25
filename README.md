@@ -1,4 +1,4 @@
-# 💻 Sistem Pakar Identifikasi Kerusakan Laptop
+# 💻 Sistem Pakar Diagnosa Kerusakan Laptop
 
 Program ini merupakan implementasi **Sistem Pakar** untuk mendeteksi kerusakan laptop menggunakan metode **Backward Chaining** berbasis Python.
 
