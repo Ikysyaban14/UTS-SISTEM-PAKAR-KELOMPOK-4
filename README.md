@@ -39,7 +39,7 @@ Cara Kerja:
 2.Sistem menanyakan gejala terkait
 3.Jika semua gejala terpenuhi, target dianggap benar
 4.Jika tidak sesuai, sistem berpindah 5.ke target lain
-Hasil akhir ditampilkan ke pengguna
+Hasil akhir ditampilkan ke pengguna. 
 
 ## 📚 Knowledge Base
 🖥️ Data Kerusakan
@@ -68,7 +68,7 @@ Kerusakan Touchpad
 K11
 Kerusakan Wifi
 K12
-Kerusakan Sistem Operasi
+Kerusakan Sistem Operasi. 
 
 ## 🔍 Data Gejala
 Kode
@@ -96,7 +96,7 @@ Wifi tidak terdeteksi
 G11
 USB tidak terbaca
 G12
-Laptop cepat panas
+Laptop cepat panas. 
 
 ## 🧾 Aturan IF - THEN
 IF G02 AND G03 THEN K01
@@ -110,21 +110,21 @@ IF DVD tidak terbaca THEN K08
 IF G11 THEN K09
 IF G09 THEN K10
 IF G10 THEN K11
-IF G06 THEN K12
+IF G06 THEN K12. 
 
 ## ⚙️ Cara Penggunaan
 1.Jalankan program Python
 2.Sistem akan memberikan pertanyaan 3.gejala
 Jawab dengan:
 y = Ya
-n = Tidak
+n = Tidak. 
 
 ## 💻 Teknologi
 Python
 Terminal / CMD
 Artificial Intelligence
 Expert System
-Backward Chaining
+Backward Chaining. 
 
 
 
